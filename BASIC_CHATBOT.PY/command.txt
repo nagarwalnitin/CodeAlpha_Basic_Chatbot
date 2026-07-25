@@ -1,0 +1,16 @@
+✅ how are you
+✅ who are you
+✅ your name
+✅ what is python
+✅ what is ai
+✅ who created python
+✅ what is your purpose
+✅ date
+✅ time
+✅ day
+✅ calculator (main.py se calculator.py call hoga)
+✅ quote
+✅ dice
+✅ flip
+✅ help
+✅ bye
